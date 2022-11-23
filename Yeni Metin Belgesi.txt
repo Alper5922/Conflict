@@ -5,4 +5,5 @@ istanbul
 master çakışma denemesi
 can denemesi
 can 2.çakışma denemesi
+Master2.ekleme
 
